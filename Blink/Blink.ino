@@ -1,6 +1,6 @@
 /*
   Blink
-Programmer: Mr. Lange 
+Programmer: Jake Harback
 Date: 11.14.2022
 Program: Blink
 */
